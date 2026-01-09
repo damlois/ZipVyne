@@ -1,0 +1,7 @@
+{
+  "name": "ZipVyne: Town Logistics & Eats",
+  "description": "Hyper-local commerce and logistics engine. Connecting vendors, riders, and customers in high-growth towns.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
